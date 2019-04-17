@@ -1,0 +1,11 @@
+D:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\bin\Debug\netcoreapp2.1\PredicateTest.deps.json
+D:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\bin\Debug\netcoreapp2.1\PredicateTest.runtimeconfig.json
+D:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\bin\Debug\netcoreapp2.1\PredicateTest.runtimeconfig.dev.json
+d:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\bin\Debug\netcoreapp2.1\PredicateTest.dll
+d:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\bin\Debug\netcoreapp2.1\PredicateTest.pdb
+d:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\obj\Debug\netcoreapp2.1\PredicateTest.csprojAssemblyReference.cache
+d:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\obj\Debug\netcoreapp2.1\PredicateTest.csproj.CoreCompileInputs.cache
+d:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\obj\Debug\netcoreapp2.1\PredicateTest.AssemblyInfoInputs.cache
+d:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\obj\Debug\netcoreapp2.1\PredicateTest.AssemblyInfo.cs
+d:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\obj\Debug\netcoreapp2.1\PredicateTest.dll
+d:\Projects\Test\Visual Studio Code\CSharp\PredicateTest\obj\Debug\netcoreapp2.1\PredicateTest.pdb
