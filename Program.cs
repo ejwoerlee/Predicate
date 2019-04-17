@@ -13,6 +13,7 @@ namespace PredicateTest
             int unEvenCount = mylist.Count(x => x % 2 != 0 );
             
             Console.WriteLine($"Even = {evenCount}, Uneven = {unEvenCount}");
+            Console.WriteLine("End");
         }
 
     }
